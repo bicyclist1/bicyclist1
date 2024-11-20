@@ -5,6 +5,7 @@
 - 📫 How to reach me https://www.threads.net/@uwe.hauck Discord: bicyclist
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I hold a Masters Degree in Computational Linguistics and Artificial Intelligence earned in 1995
+- and we started with classical AI and then switched to neural networks as a student project
 
 <!---
 bicyclist1/bicyclist1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
